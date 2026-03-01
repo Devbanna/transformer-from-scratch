@@ -182,4 +182,3 @@ transformer-from-scratch/
 ├── requirements.txt
 └── README.md
 
----
