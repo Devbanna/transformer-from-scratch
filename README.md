@@ -171,6 +171,7 @@ To reproduce results:
 
 ## Repository Structure
 
+```text
 transformer-from-scratch/
 │
 ├── data/ # Processed datasets
