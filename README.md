@@ -97,25 +97,25 @@ Key observations:
 
 ### Training and Validation Loss
 
-![Loss Curve](reports/loss_curve.png)
+![Loss Curve](./reports/loss_curve.png)
 
 ---
 
 ### Accuracy Over Time
 
-![Accuracy Curve](reports/accuracy_curve.png)
+![Accuracy Curve](./reports/accuracy_curve.png)
 
 ---
 
 ### Confusion Matrix
 
-![Confusion Matrix](reports/confusion_matrix.png)
+![Confusion Matrix](./reports/confusion_matrix.png)
 
 ---
 
 ### Attention Heatmap
 
-![Attention Heatmap](reports/attention_heatmap.png)
+![Attention Heatmap](./reports/attention_heatmap.png)
 
 
 ---
