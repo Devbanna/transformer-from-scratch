@@ -45,6 +45,7 @@ The model follows an encoder-only Transformer architecture consisting of:
 
 ## Model Architecture
 
+```text
 Input Text
   ↓
 Tokenization → Token IDs
