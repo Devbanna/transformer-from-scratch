@@ -62,8 +62,8 @@ Fully Connected Layer
   ↓
 Softmax Classification
 
-
 ---
+
 
 ## Implementation Details
 
