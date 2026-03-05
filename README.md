@@ -61,6 +61,7 @@ Mean Pooling
 Fully Connected Layer
   ↓
 Softmax Classification
+```
 
 ---
 
